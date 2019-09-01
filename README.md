@@ -22,7 +22,7 @@ npm start
 ```
 
 
-## Running the tests
+## Running the API's
 
 After you have successfully setup the project on your machine you can now play with the API's using POSTMAN.
 
