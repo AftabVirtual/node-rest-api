@@ -1,0 +1,20 @@
+[
+    {
+        "id" : "0",
+        "location" : "New Delhi",
+        "tourTitle" : "Taj Mahal",
+        "tourCategory" : "Fun",
+        "tourDescription" : "Moon light Taj View.",
+        "price" : 900,
+        "currency" : "INR"
+    },
+    {
+        "id": "1", 
+        "location" : "Mumbai",
+        "tourTitle" : "Gateway of India tour",
+        "tourCategory" : "Sightseeing",
+        "tourDescription" : "Aksa Beach",
+        "price" : 600,
+        "currency" : "INR"
+    }
+]
